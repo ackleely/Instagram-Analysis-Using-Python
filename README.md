@@ -124,5 +124,5 @@ strategies.
 
 ## Contributors’ GitHub Profile Links:
 
-- [@jeysiiiiiii] (add-your-link)
+- [@jeysiiiiiii](https://github.com/jeysiiiiiii)
 - [@ackleely](https://github.com/yourusername)
